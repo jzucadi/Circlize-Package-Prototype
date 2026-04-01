@@ -197,7 +197,4 @@ The package includes GitHub Actions workflows for:
 - Linting with lintr
 - Automatic graphics generation
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
